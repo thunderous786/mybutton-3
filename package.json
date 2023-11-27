@@ -3,21 +3,15 @@
   "version": "1.0.0",
   "description": "",
   "main": "MyButton.js",
-<<<<<<< HEAD
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
-  },
-  "repositroy": "https://github.com/thunderous786/mybutton-3.git",
-=======
   "publishConfig":{
     "registry":"https://npm.pkg.github.com"
   },
-  "repositroy":"https://github.com/thunderous786/mybutton-3.git",
->>>>>>> a88228bd3fadd59fc8276e5fe176e53d9d7ab230
+  "repository":"https://github.com/thunderous786/mybutton-3.git",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
+  
   "license": "ISC"
 }

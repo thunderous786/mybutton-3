@@ -4,7 +4,7 @@
   "description": "",
   "main": "MyButton.js",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/thunderous786"
+    "registry": "https://npm.pkg.github.com"
   },
   "repository": {
     "type": "git",

@@ -1,16 +1,16 @@
 {
-  "name": "@thunderous786/mybutton-1111",
+  "name": "@thunderous786/mybutton-3",
   "version": "1.0.0",
   "description": "",
   "main": "MyButton.js",
-  "publishConfig":{
-    "registry":""
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
   },
+  "repositroy": "https://github.com/thunderous786/mybutton-3.git",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
-  
   "license": "ISC"
 }

@@ -1,0 +1,16 @@
+{
+  "name": "@thunderous786/mybutton-1111",
+  "version": "1.0.0",
+  "description": "",
+  "main": "MyButton.js",
+  "publishConfig":{
+    "registry":""
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  
+  "license": "ISC"
+}
